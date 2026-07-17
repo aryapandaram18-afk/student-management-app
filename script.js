@@ -2,7 +2,7 @@ function addStudent() {
 
     let name = document.getElementById("studentName").value;
 
-    if(name !== "") {
+    if (name !== "") {
 
         let li = document.createElement("li");
         li.innerText = name;
@@ -10,5 +10,8 @@ function addStudent() {
         document.getElementById("studentList").appendChild(li);
 
         document.getElementById("studentName").value = "";
+        li.innerHTML =
+            name + ' <button onclick="this.parentElement.remove()">Delete</button>';
+
     }
 }
