@@ -2,7 +2,6 @@ body{
     font-family: Arial, sans-serif;
     margin: 40px;
     background-color: black;
-
 }
 
 h1{
@@ -10,7 +9,7 @@ h1{
 }
 
 button{
-    background-color: blue;
+    background-color: pink;
     color: white;
     padding: 8px;
     border: none;
