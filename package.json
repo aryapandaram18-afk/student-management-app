@@ -1,0 +1,22 @@
+{
+  "name": "student-management-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo Testing Student Management App",
+    "build": "echo Build Successful"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aryapandaram18-afk/student-management-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/aryapandaram18-afk/student-management-app/issues"
+  },
+  "homepage": "https://github.com/aryapandaram18-afk/student-management-app#readme"
+}
